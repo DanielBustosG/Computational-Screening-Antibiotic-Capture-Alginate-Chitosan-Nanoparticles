@@ -1,0 +1,68 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying article."
+title: "Computational Screening Reveals Molecular and Colloidal Determinants of Antibiotic Capture by Alginate-Chitosan Nanoparticles: analysis code and data"
+type: software
+license: MIT
+repository-code: "https://github.com/DanielBustosG/Computational-Screening-Antibiotic-Capture-Alginate-Chitosan-Nanoparticles"
+authors:
+  - family-names: Flores-Brizuela
+    given-names: Antonia
+    affiliation: "Laboratorio de Bioinformática y Química Computacional, Universidad Católica del Maule"
+  - family-names: Urra
+    given-names: Gabriela
+    affiliation: "Universidad de Talca"
+  - family-names: Farías-Abarca
+    given-names: Javier
+    affiliation: "Laboratorio de Bioinformática y Química Computacional, Universidad Católica del Maule"
+  - family-names: Alarcón-Muñoz
+    given-names: David
+    affiliation: "Laboratorio de Bioinformática y Química Computacional, Universidad Católica del Maule"
+  - family-names: Bravo-Sandoval
+    given-names: Martina
+    affiliation: "Laboratorio de Bioinformática y Química Computacional, Universidad Católica del Maule"
+  - family-names: Alegría-Arcos
+    given-names: Melissa
+    affiliation: "Universidad de las Américas"
+  - family-names: Palma
+    given-names: Jonathan
+    affiliation: "Universidad de Talca"
+  - family-names: Morales-Quintana
+    given-names: Luis
+    affiliation: "Universidad Autónoma de Chile"
+    email: luis.morales@uautonoma.cl
+  - family-names: Bustos
+    given-names: Daniel
+    affiliation: "Laboratorio de Bioinformática y Química Computacional, Universidad Católica del Maule"
+    email: dbustos@ucm.cl
+keywords:
+  - alginate
+  - chitosan
+  - nanoparticles
+  - antibiotics
+  - adsorption
+  - ensemble docking
+  - molecular dynamics
+preferred-citation:
+  type: article
+  title: "Computational Screening Reveals Molecular and Colloidal Determinants of Antibiotic Capture by Alginate-Chitosan Nanoparticles"
+  journal: "Journal of Chemical Information and Modeling"
+  status: submitted
+  authors:
+    - family-names: Flores-Brizuela
+      given-names: Antonia
+    - family-names: Urra
+      given-names: Gabriela
+    - family-names: Farías-Abarca
+      given-names: Javier
+    - family-names: Alarcón-Muñoz
+      given-names: David
+    - family-names: Bravo-Sandoval
+      given-names: Martina
+    - family-names: Alegría-Arcos
+      given-names: Melissa
+    - family-names: Palma
+      given-names: Jonathan
+    - family-names: Morales-Quintana
+      given-names: Luis
+    - family-names: Bustos
+      given-names: Daniel

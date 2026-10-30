@@ -1,0 +1,22 @@
+# R dependencies for scripts/docking_analysis.R
+# Tested with R >= 4.2. Install from CRAN:
+#   install.packages(c("readxl","dplyr","tidyr","ggplot2","writexl","purrr",
+#     "stringr","forcats","patchwork","ggrepel","FactoMineR","factoextra",
+#     "tibble","pheatmap","RColorBrewer","gt","scales"))
+readxl
+dplyr
+tidyr
+ggplot2
+writexl
+purrr
+stringr
+forcats
+patchwork
+ggrepel
+FactoMineR
+factoextra
+tibble
+pheatmap
+RColorBrewer
+gt
+scales

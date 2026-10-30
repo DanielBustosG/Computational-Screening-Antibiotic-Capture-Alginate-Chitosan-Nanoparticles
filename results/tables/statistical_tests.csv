@@ -1,0 +1,11 @@
+comparison,test,n_per_group,statistic,p_value
+formulation (replica means),one-way ANOVA,3,5.757,0.04021
+formulation (individual molecules),Kruskal-Wallis,72,35.416,2.039e-08
+1:2/ATC vs 1:1/ATC,Mann-Whitney U,24,385.0,0.0317
+1:2/MTC vs 1:1/MTC,Mann-Whitney U,24,398.5,0.008
+1:2/CPZ vs 1:1/CPZ,Mann-Whitney U,24,358.5,0.1153
+1:2/ATC vs 2:1/ATC,Mann-Whitney U,24,399.0,0.0109
+1:1/ATC vs 2:1/ATC,Mann-Whitney U,24,316.0,0.4686
+2:1/ATC vs 2:1/RFP,Mann-Whitney U,24,318.5,0.3405
+2:1/VCM vs 2:1/RFP,Mann-Whitney U,24,316.0,0.3822
+2:1/ATC vs 2:1/VGM,Mann-Whitney U,24,325.5,0.2139

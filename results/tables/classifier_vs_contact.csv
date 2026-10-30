@@ -1,0 +1,11 @@
+Formulation,Antibiotic,FREE (%),ADSORBED (%),ABSORBED (%),Radius-based bound (%),Contact-based bound (%),Discrepancy (pp),ABSORBED frames with no contact (%)
+1:1,Anhydrotetracycline,84.9,9.9,5.1,15.1,9.4,5.6,13.7
+1:1,Methacycline,84.7,7.2,8.1,15.3,11.2,4.1,5.9
+1:1,Cefoperazone,83.1,11.9,5.0,16.9,11.7,5.2,7.9
+1:2,Anhydrotetracycline,12.9,35.6,51.5,87.1,26.9,60.2,58.9
+1:2,Methacycline,12.7,38.5,48.8,87.3,18.2,69.2,70.3
+1:2,Cefoperazone,13.0,40.6,46.4,87.0,27.9,59.2,55.9
+2:1,Anhydrotetracycline,87.6,12.4,0.0,12.4,11.1,1.2,0.0
+2:1,Virginiamycin M1,95.8,3.3,1.0,4.2,2.5,1.7,6.4
+2:1,Vancomycin,90.6,9.4,0.0,9.4,8.1,1.3,0.0
+2:1,Rifampicin,98.2,1.8,0.0,1.8,0.8,1.0,0.0

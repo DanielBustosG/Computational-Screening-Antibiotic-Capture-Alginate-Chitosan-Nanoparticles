@@ -1,0 +1,4 @@
+Formulation,Alginate chains,Chitosan chains,Calcium ions,Initial radius P95 (A),Final radius P95 (A),Radial compaction,Apparent volume ratio,Final Rg (A),Initial SASA (1e3 A2),Final SASA (1e3 A2),Shape anisotropy,Alg-Alg H-bonds per alginate chain,Alg-Chi H-bonds per chitosan chain,Calcium salt bridges per frame
+1:1,30,30,120,52.2,66.3 +/- 7.4,1.27 +/- 0.14,2.10 +/- 0.69,41.2 +/- 2.9,125,103 +/- 1,0.025,2.85 +/- 0.27,3.42 +/- 0.25,61 +/- 4
+1:2,30,60,120,56.2,131.4 +/- 3.9,2.34 +/- 0.07,12.84 +/- 1.08,62.1 +/- 2.6,186,179 +/- 5,0.02,3.20 +/- 0.13,2.41 +/- 0.03,88 +/- 4
+2:1,60,30,240,52.9,53.0 +/- 1.1,1.00 +/- 0.02,1.01 +/- 0.06,39.3 +/- 0.4,135,126 +/- 3,0.005,4.31 +/- 0.16,5.61 +/- 0.43,100 +/- 5
