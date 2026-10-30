@@ -2,7 +2,7 @@
 
 Analysis code, data and Supporting Information accompanying the study.
 
-**Authors:** Antonia Flores-Brizuela†, Gabriela Urra†, Javier Farías-Abarca, David Alarcón-Muñoz, Martina Bravo-Sandoval, Melissa Alegría-Arcos, Jonathan Palma, Luis Morales-Quintana\*, Daniel Bustos\*
+**Authors:** Antonia P. Flores-Brizuela†, Gabriela Urra†, Javier Farías-Abarca, David Alarcón-Muñoz, Martina Bravo-Sandoval, Melissa Alegría-Arcos, Jonathan Palma, Luis Morales-Quintana\*, Daniel Bustos\*
 
 † Equal contribution. \* Corresponding authors: dbustos@ucm.cl (D.B.), luis.morales@uautonoma.cl (L.M-Q.)
 

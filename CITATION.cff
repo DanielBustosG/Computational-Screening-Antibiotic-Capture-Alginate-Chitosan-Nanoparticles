@@ -6,7 +6,7 @@ license: MIT
 repository-code: "https://github.com/DanielBustosG/Computational-Screening-Antibiotic-Capture-Alginate-Chitosan-Nanoparticles"
 authors:
   - family-names: Flores-Brizuela
-    given-names: Antonia
+    given-names: Antonia P.
     affiliation: "Laboratorio de Bioinformática y Química Computacional, Universidad Católica del Maule"
   - family-names: Urra
     given-names: Gabriela
@@ -49,7 +49,7 @@ preferred-citation:
   status: submitted
   authors:
     - family-names: Flores-Brizuela
-      given-names: Antonia
+      given-names: Antonia P.
     - family-names: Urra
       given-names: Gabriela
     - family-names: Farías-Abarca
